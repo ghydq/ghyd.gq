@@ -407,7 +407,7 @@ color:  #0c0c0d;
   height: 8px;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-  background: #0c0c0d;
+  background: #fff;
 }
 
 .google-map iframe {
